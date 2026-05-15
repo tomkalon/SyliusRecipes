@@ -13,7 +13,7 @@ Additional recipes can be found on the [Contrib Recipes Repository](https://gith
 | [sylius/plus-marketplace-suite-plugin](https://packagist.org/packages/sylius/plus-marketplace-suite-plugin) | [3.0](../../../tree/main/sylius/plus-marketplace-suite-plugin/3.0) | `marketplace`, `marketplace-plugin`, `marketplace-suite`, `marketplace-suite-plugin`, `marketplaceplugin`, `marketplacesuite`, `marketplacesuiteplugin` |
 | [sylius/plus-rbac-plugin](https://packagist.org/packages/sylius/plus-rbac-plugin) | [2.0](../../../tree/main/sylius/plus-rbac-plugin/2.0) | `rbac` |
 | [sylius/price-history-plugin](https://packagist.org/packages/sylius/price-history-plugin) | [0.1](../../../tree/main/sylius/price-history-plugin/0.1) | `price-history`, `pricehistory` |
-| [sylius/product-configurator-plugin](https://packagist.org/packages/sylius/product-configurator-plugin) | [2.0](../../../tree/main/sylius/product-configurator-plugin/2.0) | `product-configurator`, `productconfigurator` |
+| [sylius/product-configurator-plugin](https://packagist.org/packages/sylius/product-configurator-plugin) | [0.1](../../../tree/main/sylius/product-configurator-plugin/0.1) | `product-configurator`, `productconfigurator` |
 | [sylius/return-plugin](https://packagist.org/packages/sylius/return-plugin) | [2.0](../../../tree/main/sylius/return-plugin/2.0) | `return`, `returns` |
 | [sylius/rfq-plugin](https://packagist.org/packages/sylius/rfq-plugin) | [2.0](../../../tree/main/sylius/rfq-plugin/2.0) | `rfq` |
 | [sylius/state-machine-abstraction](https://packagist.org/packages/sylius/state-machine-abstraction) | [1.13](../../../tree/main/sylius/state-machine-abstraction/1.13) |  |
